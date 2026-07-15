@@ -1,0 +1,67 @@
+🚀 Getting Started
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/EduGen-AI.git
+```
+
+2. Move into the project folder
+
+```bash
+cd EduGen-AI
+```
+
+3. Install the required packages
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Set your Gemini API Key
+
+Example (Windows/Powershell):
+
+```cmd
+set GEMINI_API_KEY= "your API key"
+&
+$env:GEMINI_API_KEY="your own actual API key"
+```
+
+5. Run the project
+
+```bash
+Run python main.py
+```
+
+---
+
+💬 Example
+
+```text
+You: Explain Machine Learning.
+
+EduGen AI:
+Machine Learning is a part of Artificial Intelligence that allows computers to learn from data and make predictions without being programmed for every task.
+```
+
+📚 What It Can Help With
+
+- Mathematics
+- Science
+- Computer Science
+- Artificial Intelligence
+- Data Science
+- Programming
+- English
+- General Knowledge
+
+
+💻 Example Questions
+
+- Explain recursion with an example.
+- Write a Python program for binary search.
+- What is Object-Oriented Programming?
+- Create a quiz on DBMS.
+- Debug my Python code.
+- Explain SQL joins.
